@@ -1,0 +1,91 @@
+header, section.success {
+   background: #860239;
+}
+
+hr.star-light:after {
+  background-color: #2C3E50;
+}
+
+header .intro-text .name {
+  font-size: 2.0em;
+  text-transform: none;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+  background: #2C3E50;
+ 
+}
+
+
+blockquote {
+  margin-left: 40px;
+}
+
+blockquote .small, blockquote footer, blockquote small {
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+
+.project-content {
+text-align: left;
+}
+
+
+.portfolio-modal .modal-content {
+  padding-top: 20px;
+}
+
+section.reviews {
+  color: #FFF;
+  background: #2C3E50;
+}
+
+section#contact {
+  padding: 30px;
+}
+
+.btn-default {
+  color: #FFF;
+  background-color: #860239;
+  border-color: #860239;
+}
+
+
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open.dropdown-toggle.btn-default {
+  color: #FFF;
+  background-color: #2C3E50;
+  border-color: #2C3E50;
+}
+
+
+ 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #FFF;
+  background-color: #1A242F;
+}
+
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+color: #860239;
+}
+
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+ 
+  color: #860239;
+ 
+}
+
+
+.col-lg-12.creds a {
+  color: #CB0000;
+}
+
+
+a:hover, a:focus, a, a:hover, a:focus, a:active, a.active {
+  color: #860239;
+   
+}
